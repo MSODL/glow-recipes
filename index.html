@@ -1526,6 +1526,9 @@
 
             // Load shopping list on startup
             loadShoppingList();
+
+            // Re-render to add shopping list buttons (fixes timing issue)
+            renderRecipes();
         });
     </script>
 
