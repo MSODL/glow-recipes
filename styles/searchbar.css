@@ -1,0 +1,41 @@
+/* AI Search Bar */
+.search-container {
+    width: 100%;
+    position: relative;
+}
+
+.search-bar {
+    width: 100%;
+    padding: 1rem 1.5rem;
+    padding-right: 3rem;
+    background: rgba(30, 41, 59, 0.6);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 50px;
+    color: var(--text-main);
+    font-size: 1.1rem;
+    font-family: 'Outfit', sans-serif;
+    outline: none;
+    transition: all 0.3s ease;
+    backdrop-filter: blur(10px);
+}
+
+.search-bar:focus {
+    background: rgba(30, 41, 59, 0.9);
+    border-color: var(--primary-accent);
+    box-shadow: 0 0 20px rgba(52, 211, 153, 0.2);
+}
+
+.search-icon {
+    position: absolute;
+    right: 1.5rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--primary-accent);
+    cursor: pointer;
+}
+
+@media (max-width: 768px) {
+    .search-bar {
+        padding: 0.8rem 1.2rem;
+    }
+}

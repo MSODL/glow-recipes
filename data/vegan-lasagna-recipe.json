@@ -1,0 +1,169 @@
+{
+    "Title": "Vegan Gluten-Free Lasagna",
+    "Source": "Based on PETA-style vegan recipes",
+    "Servings": 8,
+    "Prep Time": "30 mins",
+    "Cook Time": "45 mins",
+    "Total Time": "75 mins",
+    "Calories": 320,
+    "Net Carbs": 35,
+    "Protein": 14,
+    "Fat": 12,
+    "Fiber": 6,
+    "Glycemic Impact": "Medium",
+    "Type 2 Friendly": "Moderate - Contains high-GI ingredients",
+    "Ingredients": [
+        {
+            "name": "Gluten-free lasagna noodles",
+            "amount": "340g (12 sheets)",
+            "category": "Pasta",
+            "glycemic_flag": "⚠️ HIGH GI - Consider zucchini noodles instead",
+            "glycemic_index": "High (70+)",
+            "notes": "Most gluten-free pasta has a high glycemic index due to rice or corn flour"
+        },
+        {
+            "name": "Firm tofu",
+            "amount": "450g (1 block), drained and crumbled",
+            "category": "Protein",
+            "glycemic_flag": "✓ LOW GI",
+            "glycemic_index": "Low (15)"
+        },
+        {
+            "name": "Raw cashews",
+            "amount": "240g (1.5 cups), soaked",
+            "category": "Nuts",
+            "glycemic_flag": "✓ LOW GI",
+            "glycemic_index": "Low (25)"
+        },
+        {
+            "name": "Nutritional yeast",
+            "amount": "60g (1/2 cup)",
+            "category": "Flavor",
+            "glycemic_flag": "✓ LOW GI",
+            "glycemic_index": "Very Low"
+        },
+        {
+            "name": "Garlic cloves",
+            "amount": "4 cloves, minced",
+            "category": "Aromatics",
+            "glycemic_flag": "✓ LOW GI",
+            "glycemic_index": "Very Low"
+        },
+        {
+            "name": "Lemon juice",
+            "amount": "60ml (1/4 cup)",
+            "category": "Acid",
+            "glycemic_flag": "✓ LOW GI",
+            "glycemic_index": "Very Low"
+        },
+        {
+            "name": "Fresh basil",
+            "amount": "30g (1/2 cup), chopped",
+            "category": "Herbs",
+            "glycemic_flag": "✓ LOW GI",
+            "glycemic_index": "Negligible"
+        },
+        {
+            "name": "Spinach",
+            "amount": "300g (10 oz), fresh or frozen",
+            "category": "Vegetables",
+            "glycemic_flag": "✓ LOW GI",
+            "glycemic_index": "Very Low (15)"
+        },
+        {
+            "name": "Marinara sauce",
+            "amount": "720ml (3 cups)",
+            "category": "Sauce",
+            "glycemic_flag": "⚠️ MODERATE GI - Check for added sugar",
+            "glycemic_index": "Moderate (40-50)",
+            "notes": "Choose low-sugar marinara or make your own"
+        },
+        {
+            "name": "Zucchini",
+            "amount": "2 medium (400g), sliced thin",
+            "category": "Vegetables",
+            "glycemic_flag": "✓ LOW GI",
+            "glycemic_index": "Very Low (15)"
+        },
+        {
+            "name": "Mushrooms",
+            "amount": "225g (8 oz), sliced",
+            "category": "Vegetables",
+            "glycemic_flag": "✓ LOW GI",
+            "glycemic_index": "Very Low (10)"
+        },
+        {
+            "name": "Olive oil",
+            "amount": "30ml (2 tbsp)",
+            "category": "Oil",
+            "glycemic_flag": "✓ NO GI IMPACT",
+            "glycemic_index": "Zero"
+        },
+        {
+            "name": "Salt",
+            "amount": "To taste",
+            "category": "Seasoning",
+            "glycemic_flag": "✓ NO GI IMPACT",
+            "glycemic_index": "Zero"
+        },
+        {
+            "name": "Black pepper",
+            "amount": "To taste",
+            "category": "Seasoning",
+            "glycemic_flag": "✓ NO GI IMPACT",
+            "glycemic_index": "Zero"
+        },
+        {
+            "name": "Dried oregano",
+            "amount": "5g (1 tsp)",
+            "category": "Herbs",
+            "glycemic_flag": "✓ LOW GI",
+            "glycemic_index": "Negligible"
+        }
+    ],
+    "Instructions": [
+        "Preheat oven to 180°C (350°F).",
+        "Cook gluten-free lasagna noodles according to package directions. Drain and set aside.",
+        "For the tofu ricotta: In a food processor, blend drained tofu, soaked cashews (drained), nutritional yeast, 2 minced garlic cloves, lemon juice, salt, and pepper until creamy. Stir in chopped basil and spinach.",
+        "In a large pan, heat olive oil over medium heat. Sauté remaining garlic, zucchini, and mushrooms until tender (about 5-7 minutes). Season with salt, pepper, and oregano.",
+        "To assemble: Spread 240ml (1 cup) marinara sauce on the bottom of a 23x33cm (9x13 inch) baking dish.",
+        "Layer 4 lasagna noodles over the sauce.",
+        "Spread half of the tofu ricotta mixture over the noodles.",
+        "Add half of the sautéed vegetables.",
+        "Pour 240ml (1 cup) marinara sauce over vegetables.",
+        "Repeat layers: noodles, remaining ricotta, remaining vegetables, and remaining sauce.",
+        "Top with final layer of 4 noodles and remaining marinara sauce.",
+        "Cover with foil and bake for 30 minutes.",
+        "Remove foil and bake for an additional 15 minutes until bubbly and golden.",
+        "Let stand for 10 minutes before slicing and serving."
+    ],
+    "Type_2_Modifications": [
+        "RECOMMENDED: Replace gluten-free noodles with thinly sliced zucchini or eggplant 'noodles' to dramatically lower the glycemic load",
+        "Use a sugar-free marinara sauce or make your own with fresh tomatoes",
+        "Increase the proportion of vegetables to noodles (use extra spinach, zucchini, mushrooms)",
+        "Add extra protein with lentils or chickpeas in the vegetable layer",
+        "Portion control: Stick to 1/8 of the recipe (one serving) paired with a large side salad"
+    ],
+    "Substitutions": {
+        "Lower Carb Version": "Use spiralized zucchini or thinly sliced eggplant instead of pasta noodles (reduces net carbs to ~12g)",
+        "Cashew Alternative": "Use blanched almonds or silken tofu for the ricotta if cashews are unavailable",
+        "Faster Prep": "Use store-bought vegan ricotta instead of making cashew ricotta"
+    },
+    "Nutritional_Notes": {
+        "High_GI_Ingredients": [
+            "Gluten-free lasagna noodles (GI: 70+)",
+            "Marinara sauce if it contains added sugar (GI: 45-50)"
+        ],
+        "Blood_Sugar_Impact": "Medium-High when made with pasta noodles. Can be reduced to Low if using vegetable 'noodles' instead.",
+        "Fiber_Content": "Good fiber from vegetables and nuts helps moderate blood sugar response",
+        "Protein_Content": "Adequate protein from tofu and cashews helps stabilize blood sugar"
+    },
+    "Tags": [
+        "Vegan",
+        "Gluten-Free",
+        "Dairy-Free",
+        "High-Protein",
+        "Contains High-GI Ingredients",
+        "Type 2 Moderate (with modifications: Friendly)"
+    ]
+}
